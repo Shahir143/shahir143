@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Expense tracker with (MongoDb) project](https://github.com/shahir143/MongoDb_ET.git)  
   
 
-- 🌱 I’m currently learning Nodejs,express, sql and nosql  
+- 🌱 I’m currently learning React.js,redux, Nodejs,express, sql and nosql  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
