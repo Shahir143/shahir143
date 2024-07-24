@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shahir, a full-time MERN Stack Developer, FronEnd Developer Backend developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Shahir, a full-time MERN Stack Developer, FrontEnd Developer Backend developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Expense tracker with (MongoDb) project](https://github.com/shahir143/MongoDb_ET.git)  
